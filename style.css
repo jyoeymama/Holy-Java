@@ -1,0 +1,21 @@
+body {
+  background-color: black;
+}
+
+h1, h2, h3, p {
+  color: white;
+}
+
+button {
+  background-color: white;
+  color: black;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: gray;
+  color: white;
+}
