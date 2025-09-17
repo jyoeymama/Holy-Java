@@ -3,6 +3,8 @@ this is a joke language called Holy Java thats a mix of Java, Javascript, C++, a
 
 
 The Offical Holy Java Logo:
+
+
 <img width="200" height="200" alt="holyjavalogo" src="https://github.com/user-attachments/assets/2f91eec7-dcbe-4789-994d-5444199ea1c6" />
 
 
